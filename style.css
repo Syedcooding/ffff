@@ -1,0 +1,24 @@
+img.one{
+    width: 80px;
+    height: 50px;
+    aspect-ratio: 72 / 48;
+    margin: 26;
+    padding: 0%;
+
+}
+p{
+    margin: 26px 0px;
+    padding: 0%;
+}
+h3{
+    width: 675px;
+    height: 46;
+}
+div main{
+    width: 511px;
+    height: 411px;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    align-content:center ;
+}
+
